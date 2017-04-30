@@ -1,0 +1,22 @@
+{
+  "name": "labs2",
+  "version": "0.0.1",
+  "description": "node.js stuff.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Sam Henly",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henly/Labs2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Henly/Labs2/issues"
+  },
+  "homepage": "https://github.com/Henly/Labs2#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
