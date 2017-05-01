@@ -2,8 +2,8 @@
   "name": "labs2",
   "version": "0.0.1",
   "engines": {
-	"node": "0.10.11",
-    "npm": "1.2.25"
+	"node": "6.10.2",
+    "npm": "4.5.0"
   } ,
   "description": "node.js stuff.",
   "main": "main.js",
