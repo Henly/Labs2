@@ -1,0 +1,8 @@
+{
+  "name": "Labs2/main.js",
+  "description": "Basic Heroku app for node.js",
+  "repository": "https://github.com/Henly/Labs2",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "heroku"],
+  "image": "heroku/nodejs"
+}
